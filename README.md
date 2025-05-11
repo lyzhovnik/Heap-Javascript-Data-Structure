@@ -1,2 +1,3 @@
 # Heap-Javascript-Data-Structure
-Heap Javascript Data Structure Implementation
+#### Heap JavaScript Implementation -> src/Heap.js
+#### Heap TypeScript Implementation -> src/Heap-typescript.js
